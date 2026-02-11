@@ -2,6 +2,7 @@
 title: Solo Rules
 date: 2026-02-10 17:38:21 -0300
 toc: true
+pin: true
 comments: false
 description: A set of rules and spark tables meant for solo play.
 categories: [TTRPG, Rules] 

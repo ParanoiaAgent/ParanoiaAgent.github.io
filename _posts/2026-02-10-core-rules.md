@@ -1,6 +1,6 @@
 ---
 title: Core Rules
-date: 2026-02-10 09:54:08 -0300
+date: 2026-02-10 17:42:20 -0300
 toc: true
 pin: true
 comments: false
