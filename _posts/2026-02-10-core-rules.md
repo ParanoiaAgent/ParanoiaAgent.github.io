@@ -98,7 +98,8 @@ The **consequence** score might be:
 
 A clock is a circle split into **4, 6 or 8 segments**.
 
-![clock-segments](/assets/img/clock-segments.png){: w="700" h="400" }
+![clock-segments](/assets/img/clock-segments-light.png){: w="700" h="400" .light }
+![clock-segments](/assets/img/clock-segments-dark.png){: w="700" h="400" .dark }
 _4 segment clock, 3/4 full. 6 segment clock, 1/2 full. 8 segment clock, 1/8 full._
 
 Clocks represent elaborate problems that can't be resolved with a single action. The complexity of the problem determines the amount of segments on the clock.
