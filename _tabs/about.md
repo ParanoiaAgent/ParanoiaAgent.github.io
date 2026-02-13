@@ -18,16 +18,16 @@ You might enjoy outline if you are:
 - A GM that prefers low-prep, improvisational games.
 - A player that enjoys a narrative-first approach.
 - A solo player with a preference for rules-lite systems.
-- A Creator that wants a simple system as a base for your games.
+- A creator that wants a simple system as a base for your games.
 
 ## **Attributions**
 
 Outline is a highly derivative system. It takes inspiration from a variety of games, such as:
 
-- **Blades in the Dark**, by John Harper.
-- **Into the Odd**, by Chris McDowall.
-- **Whitehack**, by Christian Mehrstam.
-- **One Page Solo Engine**, by Karl Hendricks.
+- **Blades in the Dark,** by John Harper.
+- **Into the Odd,** by Chris McDowall.
+- **Whitehack,** by Christian Mehrstam.
+- **One Page Solo Engine,** by Karl Hendricks.
 
 ## **License**
 

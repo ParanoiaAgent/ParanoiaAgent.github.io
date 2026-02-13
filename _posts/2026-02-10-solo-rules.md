@@ -13,7 +13,7 @@ tags: [solo rules]
 
 ### How it Works
 
-Solo play differs from traditional group play because **there is no game master**. Instead, the player consults an **oracle** — a collection of procedures and tables where the player rolls dice and compares results.
+Solo play differs from traditional group play because **there is no game master.** Instead, the player consults an **oracle** — a collection of procedures and tables where the player rolls dice and compares results.
 
 The oracle can answer simple yes or no questions. If a question is more nuanced, the player rolls on **spark tables** and interprets the answers to determine the course of the story.
 
@@ -28,12 +28,12 @@ You can record your narrative by journaling, writing prose, bullet points or wha
 You can structure your solo play sessions around the following procedure:
 
 1. Create one or more characters.
-2. Generate a **plot hook** by rolling on the **spark tables**:
+2. Generate a **plot hook** by rolling on the **spark tables:**
     - **Task:** Action.
     - **Location:** Modifier + Place.
     - **Against:** Modifier + Figure.
     - **Motivation:** Theme.
-3. Set the scene with a **random event**:
+3. Set the scene with a **random event:**
     - **What happens:** Action.
     - **Involving:** Theme.
 4. Consult the **oracle** to answer simple questions.

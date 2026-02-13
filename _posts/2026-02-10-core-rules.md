@@ -13,7 +13,7 @@ tags: [core rules]
 
 ### Character Details
 
-Record your character's **name** and their **concept** — a small description of what makes them unique — on your character sheet. Then distribute your **attribute** points and calculate your **hit protection**.
+Record your character's **name** and their **concept** — a small description of what makes them unique — on your character sheet. Then distribute your **attribute** points and calculate your **hit protection.**
 
 ### Attributes
 
@@ -29,7 +29,7 @@ Alternatively, you can roll 4d6 for each attribute. Every success (4-6) adds 1 p
 
 ### Hit Protection
 
-**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat; it does not represent your character's health, and is nullified on surprise attacks. HP can be restored with a **short rest**.
+**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat; it does not represent your character's health, and is nullified on surprise attacks. HP can be restored with a **short rest.**
 
 Your starting HP is equal to 2 + your character's STR.
 
@@ -39,22 +39,22 @@ Grit represents your character's ability to push through challenging obstacles. 
 
 Spending grit grants the following benefits:
 
-- **-2 Grit:** +1d6 in an **Action Roll**.
-- **-1 Grit:** +1d6 in a **Resistance Roll**.
-- **-1 Grit:** +1d6 on a **Teammate's Roll**.
+- **-2 Grit:** +1d6 in an **Action Roll.**
+- **-1 Grit:** +1d6 in a **Resistance Roll.**
+- **-1 Grit:** +1d6 on a **Teammate's Roll.**
 
 ## **Gameplay Mechanics**
 
 ### Action roll
 
-When taking an action with a **risk of failure**, make an **action roll**.
+When taking an action with a **risk of failure,** make an **action roll.**
 
-1. Describe your **action**.
+1. Describe your **action.**
 2. Determine its level of **risk** (low, mixed, high).
-3. Roll a number of dice equal to the score of a relevant **attribute**.
-4. Read the **single highest result**.
+3. Roll a number of dice equal to the score of a relevant **attribute.**
+4. Read the **single highest result.**
 
-If the relevant attribute has **zero score**, roll 2 dice and read the **single lowest result**.
+If the relevant attribute has **zero score,** roll 2 dice and read the **single lowest result.**
 
 - **66:** Critical Success (High Effect).
 - **6:** Full Success (Mixed Effect).
@@ -63,24 +63,24 @@ If the relevant attribute has **zero score**, roll 2 dice and read the **single 
 
 ### Resistance Roll
 
-When your character suffers a **consequence**, you may reduce it or avoid it with a **resistance roll**.
+When your character suffers a **consequence,** you may reduce it or avoid it with a **resistance roll.**
 
 Roll a dice pool with a **related attribute** +1d6 for each grit you wish to spend.
 
-- **1-3**: The consequence **still happens**.
-- **4-5**: The consequence is reduced by a **score of 1**.
-- **6**: The consequence is reduced by a **score of 2**.
-- **66**: The consequence is reduced by a **score of 3**.
+- **1-3**: The consequence **still happens.**
+- **4-5**: The consequence is reduced by a **score of 1.**
+- **6**: The consequence is reduced by a **score of 2.**
+- **66**: The consequence is reduced by a **score of 3.**
 
 ### Effect and Consequence
 
-The **effect** of an action is related to it's **level of success**. The **consequence** of an action is related it's **level of risk**. The level of effect and consequence are equivalent to a numerical score:
+The **effect** of an action is related to it's **level of success.** The **consequence** of an action is related it's **level of risk.** The level of effect and consequence are equivalent to a numerical score:
 
 - **Low Effect/Consequence:** Score of 1
 - **Mixed Effect/Consequence:** Score of 2
 - **High Effect/Consequence:** Score of 3
 
-The score generally translates to **ticks** on a **clock**.
+The score generally translates to **ticks** on a **clock.**
 
 The **effect** score might be:
 
@@ -96,7 +96,7 @@ The **consequence** score might be:
 
 ### Clocks
 
-A clock is a circle split into **4, 6 or 8 segments**.
+A clock is a circle split into **4, 6 or 8 segments.**
 
 ![clock-segments](/assets/img/clock-segments-light.png){: w="700" h="400" .light }
 ![clock-segments](/assets/img/clock-segments-dark.png){: w="700" h="400" .dark }
@@ -118,30 +118,30 @@ Clocks can have a variety of creative uses, such as:
 
 A **consequence** may translate into physical damage to your character. Subtract the **consequence score** from your character's HP. If the HP is reduced below 0, deduct a single point from your STR score.
 
-If your character's STR is reduced below 0, they are taken down and **will die unless immediately assisted**.
+If your character's STR is reduced below 0, they are taken down and **will die unless immediately assisted.**
 
 ### Attribute Loss
 
 Your character's attributes represent different aspects of their health. Special narrative consequences may deduct the score from your attributes.
 
-- If a character's STR is reduced below 0, **they die**.
-- If a character's DEX is reduced below 0, **they are paralyzed**.
-- If a character's WIL is reduced below 0, **they become delirious**.
+- If a character's STR is reduced below 0, **they die.**
+- If a character's DEX is reduced below 0, **they are paralyzed.**
+- If a character's WIL is reduced below 0, **they become delirious.**
 
-Complete DEX and WIL loss renders the character unable to act until they go through **extended rest**.
+Complete DEX and WIL loss renders the character unable to act until they go through **extended rest.**
 
 ### Recovery
 
 Recovery happens through two kinds of rest:
 
-- **Short Rest:** Resting for a few minutes. **Restores all HP and Grit**. May waste time or attract unwanted attention.
-- **Extended Rest:** At least week of healing in a safe place. **Restores all HP, Grit and Attributes**.
+- **Short Rest:** Resting for a few minutes. **Restores all HP and Grit.** May waste time or attract unwanted attention.
+- **Extended Rest:** At least week of healing in a safe place. **Restores all HP, Grit and Attributes.**
 
 ### Inventory
 
 Player characters have 5 inventory slots. Regular items take 1 slot, bulky items take 2 slots, small items may be bundled in a single slot. Only mechanically relevant items are tracked.
 
-The amount of carried items affect your character's load. Load may grant advantages or disadvantages on **DEX action rolls**.
+The amount of carried items affect your character's load. Load may grant advantages or disadvantages on **DEX action rolls.**
 
 - **0-3 full slots:** Light load.
 - **4 full slots:** Normal load.
@@ -149,16 +149,16 @@ The amount of carried items affect your character's load. Load may grant advanta
 
 ### Equipment
 
-Equipment can be either **assistive** or **defensive**.
+Equipment can be either **assistive** or **defensive.**
 
-- **Assistive Equipment:** Utility items. Raises **effect rating** by 1 on related **action rolls**.
+- **Assistive Equipment:** Utility items. Raises **effect rating** by 1 on related **action rolls.**
 - **Defensive Equipment:** Shields and armor. Reduces **consequence rating** on physical attacks.
 
-Regular defensive equipment is single use and occupies a single inventory slot. Bulky defensive equipment can be used twice, but occupies 2 inventory slots. Equipment uses are restored by repair or replacement during **extended rest**.
+Regular defensive equipment is single use and occupies a single inventory slot. Bulky defensive equipment can be used twice, but occupies 2 inventory slots. Equipment uses are restored by repair or replacement during **extended rest.**
 
 ### Advancement
 
-At each narrative milestone, player characters go through **advancement**.
+At each narrative milestone, player characters go through **advancement.**
 
 Roll 2d6; each success (4-6) raises you character's HP by 1. Then roll 4d6; for each 6 you get, raise an attribute of your choice by 1.
 
