@@ -139,7 +139,7 @@ Whenever you need to generate new ideas, roll on the following tables:
 
 | d66   | Item      | Item       | d66   | Item      | Item     |
 | ----- | --------- | ---------- | ----- | --------- | -------- |
-| 11-25 | Accessory | Diagram    | 39-53 | Interface | Relic    |
+| 11-25 | Accessory | Diagram    | 39-53 | Interface | Record    |
 | 12-26 | Anomaly   | Document   | 40-54 | Keepsake  | Relic    |
 | 13-27 | Apparatus | Dossier    | 41-55 | Kit       | Resource |
 | 14-28 | Archive   | Draft      | 42-56 | Ledger    | Sample   |
@@ -152,7 +152,7 @@ Whenever you need to generate new ideas, roll on the following tables:
 | 21-35 | Component | Implement  | 49-63 | Module    | Tool     |
 | 22-36 | Conduit   | Index      | 50-64 | Pattern   | Trigger  |
 | 23-37 | Curio     | Insignia   | 51-65 | Permit    | Trinket  |
-| 24-38 | Device    | Instrument | 52-66 | Record    | Warrant  |
+| 24-38 | Device    | Instrument | 52-66 | Receptacle| Warrant  |
 
 | d66   | Theme      | Theme       | d66   | Theme     | Theme          |
 | ----- | ---------- | ----------- | ----- | --------- | -------------- |
@@ -172,6 +172,8 @@ Whenever you need to generate new ideas, roll on the following tables:
 | 24-38 | Division   | Knowledge   | 52-66 | Power     | Wrath          |
 
 ## **Solo Guidelines**
+
+### Solo Player Guidelines
 
 General principles that a solo player should keep in mind.
 
