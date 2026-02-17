@@ -13,7 +13,7 @@ tags: [solo rules]
 
 ### How it Works
 
-Solo play differs from traditional group play because **there is no game master.** Instead, the player consults an **oracle** — a collection of procedures and tables where the player rolls dice and compares results.
+Solo play differs from traditional group play because **there is no game master.** Instead, the player consults an **oracle** — a collection of simple rules and procedures where the player rolls dice and compares results.
 
 The oracle can answer simple yes or no questions. If a question is more nuanced, the player rolls on **spark tables** and interprets the answers to determine the course of the story.
 

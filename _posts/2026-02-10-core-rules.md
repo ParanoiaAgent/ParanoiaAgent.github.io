@@ -25,13 +25,13 @@ There are three attributes, which represent your character's capabilities.
 
 You start with 3 points, which you may distribute freely between your attributes.
 
-Alternatively, you can roll 4d6 for each attribute. Every success (4-6) adds 1 point to the score. Afterwards, you may swap the scores of two attributes.
+Alternatively, you can roll 3d6 for each attribute. Every success (4-6) adds 1 point to the score. Afterwards, you may swap the scores of two attributes.
 
 ### Hit Protection
 
-**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat; it does not represent your character's health, and is nullified on surprise attacks. HP can be restored with a **short rest.**
+**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat; it does not represent your character's health, and is nullified by surprise attacks. HP can be restored with a **short rest.**
 
-Your starting HP is equal to 2 + your character's STR.
+Your starting HP is equal to 2 + your character's starting STR.
 
 ### Grit
 
@@ -187,4 +187,4 @@ General principles players should keep in mind while playing the game.
 
 - **Cooperation:** Avoid antagonisms with other players. Communicate boundaries. Treat your peers with due respect.
 
-- **Attitude:** Its alright to fail. Embrace the narrative. Let everyone have their own moment to shine.
+- **Attitude:** It's alright to fail. Embrace the narrative. Let everyone have their own moment to shine.

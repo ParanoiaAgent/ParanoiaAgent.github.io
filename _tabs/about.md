@@ -13,7 +13,7 @@ The system contains a fairly streamlined set of core rules that keep things movi
 
 ## **Who is this for?**
 
-You might enjoy outline if you are:
+You might enjoy Outline if you are:
 
 - A GM that prefers low-prep, improvisational games.
 - A player that enjoys a narrative-first approach.
