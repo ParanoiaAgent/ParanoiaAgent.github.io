@@ -23,15 +23,19 @@ There are three attributes, which represent your character's capabilities.
  - **Dexterity (DEX):** Your finesse and reflexes.
  - **Willpower (WIL):** Your charisma and mental prowess.
 
-You start with 3 points, which you may distribute freely between your attributes.
+Roll 2d6 for each attribute; each success (4-6) adds 1 point to its score. Afterwards, you may swap the scores of two attributes.
 
-Alternatively, you can roll 3d6 for each attribute. Every success (4-6) adds 1 point to the score. Afterwards, you may swap the scores of two attributes.
+Alternatively, you can start with 3 points, which you may distribute freely between your attributes.
 
 ### Hit Protection
 
-**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat; it does not represent your character's health, and is nullified by surprise attacks. HP can be restored with a **short rest.**
+**Hit protection** (HP) represents your character's capacity to withstand physical damage while in combat. HP can be restored with a **short rest.**
 
-Your starting HP is equal to 2 + your character's starting STR.
+Characters with a lowered guard are **exposed,** and act as if having 0HP. Surprise attacks and traps generally catch exposed characters.
+
+Roll 1d6 for each point you have on your starting STR score. Your HP is equal to the **single highest result.** If you have no points assigned to STR, roll 2d6 and use the **single lowest result** instead.
+
+Alternatively, your HP is equal to 2 + your character's starting STR.
 
 ### Grit
 
