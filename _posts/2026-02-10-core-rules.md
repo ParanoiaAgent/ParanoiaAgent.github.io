@@ -6,7 +6,7 @@ pin: true
 comments: false
 description: A streamlined set of rules meant for low-prep sessions.
 categories: [TTRPG, Rules] 
-tags: [core rules]
+tags: [core rules, en-us]
 ---
 
 ## **Character Creation**

@@ -6,7 +6,7 @@ pin: true
 comments: false
 description: A set of rules and spark tables meant for solo play.
 categories: [TTRPG, Rules] 
-tags: [solo rules]
+tags: [solo rules, en-us]
 ---
 
 ## **How to Solo**

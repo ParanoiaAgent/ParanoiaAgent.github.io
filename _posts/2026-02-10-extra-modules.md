@@ -6,7 +6,7 @@ pin: true
 comments: false
 description: A set of optional rules, meant to add some extra depth to your campaing.
 categories: [TTRPG, Rules] 
-tags: [extra modules]
+tags: [extra modules, en-us]
 ---
 
 ## **Conditions**
