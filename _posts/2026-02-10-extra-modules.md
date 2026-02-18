@@ -67,7 +67,9 @@ When your team starts to expand into a larger organization, it becomes a **colle
 
 ### Collective Advancement
 
-You can expand your collective during **advancement.** Roll 4d6; for each 6 you get you receive a **collective point.** To raise your collective scale, you expend an amount of points equal to its next level — level 1 takes 1 point, level 2 takes 2 points, and so on. You can save your earned points to expand your collective on your next advancement, or to get an **asset.**
+You can expand your collective during **advancement.** Roll 4d6; for each 6 you get you receive a **collective point.** To raise your collective scale, you expend an amount of points equal to its next level — level 1 takes 1 point, level 2 takes 2 points, and so on.
+
+You can save your earned points to expand your collective on your next advancement, or to get an **asset.**
 
 ### Collective Assets
 
@@ -77,21 +79,33 @@ Assets are the resources available to your collective. Assets are split between 
 - **Defensive Asset:** Base of operations, fortified infrastructure, threat detection network, legal cover, secured supply lines, etc.
 - **Utility Asset:** Extraction vehicle, intelligence network, operation funds, cover identities, access vectors, etc.
 
-Each new asset raises the level of its category. To get a new asset, you expend an amount of points equal to its next category level — level 1 takes 1 point, level 2 takes 2 points, and so on. The asset description will give advantages to your collective within the fiction, while it's level functions as an attribute in **collective rolls.**
+Each new asset raises the level of its category. To get a new asset, you expend an amount of points equal to the next level — level 1 takes 1 point, level 2 takes 2 points, and so on.
+
+The asset description will give advantages to your collective within the fiction, while it's level functions as an attribute in **collective rolls.**
 
 ### Collective Rolls
 
-Collective rolls resolve conflicts between large groups of people. They work like **action rolls** do for single characters — asset categories function as the attributes of a collective.
+Collective rolls resolve conflicts between large groups of people. They work like **action rolls** do for player characters — with asset categories functioning as the attributes of a collective.
 
 An **offensive action** — like a raid into enemy territory — makes use of your **offensive assets.**
+
 A **defensive action** — such as a resistance roll against a consequence — makes use of your **defensive assets.**
+
 A **utility action** — like getting information through your intelligence network — makes use of your **utility assets.**
 
-When rolling against another organization — such as in a skirmish against a faction — you get +1d6 for each level of scale you have over your opponent, and -1d6 for each level under.
+When rolling against another organization — such as in a skirmish against a faction — you get +1d6 for each level you have over your opponent, and -1d6 for each level under.
+
+### Hit Protection and Grit
+
+Roll a number of dice equal to your collective level; your collective's HP is equal to the **single highest result.** Each time you raise your collective level, re-roll its HP using the current score; if the result is higher, it replaces the older HP score.
+
+A collective doesn't have grit. Instead, the player character leading the collective spends their own grit to boost collective rolls.
 
 ### Damage and Repair
 
-A **consequence** translates into damage to your assets. Subtract the **consequence score** from the relevant asset category. To restore your asset level, you'll need to repair it during **extended rest.** Roll 1d6 for each week spent in rest; each success (4-6) is 1 point restored. A critical success (66) is 3 points restored.
+A **consequence** translates into damage to your assets. Subtract the **consequence score** from the collective's HP. If the HP is reduced below 0, deduct a single point from the relevant asset category.
+
+To restore your asset level, you'll need to repair it during **extended rest.** Roll 1d6 for each week spent in rest; each success (4-6) is 1 point restored. A critical success (66) is 3 points restored.
 
 ## **Narrative Cards**
 
