@@ -58,7 +58,7 @@ When taking an action with a **risk of failure,** make an **action roll.**
 3. Roll a number of dice equal to the score of a relevant **attribute.**
 4. Read the **single highest result.**
 
-If the relevant attribute has **zero score,** roll 2 dice and read the **single lowest result.**
+If the relevant attribute has **score of zero,** roll 2 dice and read the **single lowest result.**
 
 - **66:** Critical Success (High Effect).
 - **6:** Full Success (Mixed Effect).
@@ -176,7 +176,7 @@ General principles that the Game Master should keep in mind while running the ga
 
 - **Mechanics:** Prioritize the fiction before resorting to the rules. Only roll when the outcome is uncertain.
 
-- **Preparation:** Avoid pre-planning your sessions. Come up with a premisse and let the narrative flow naturally.
+- **Preparation:** Avoid pre-planning your sessions. Come up with a premise and let the narrative flow naturally.
 
 - **Choice:** Don't steer the story in a set direction. Allow players the freedom to make meaningful choices.
 

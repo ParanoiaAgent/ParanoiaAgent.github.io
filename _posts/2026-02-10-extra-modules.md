@@ -87,11 +87,11 @@ The asset description will give advantages to your collective within the fiction
 
 Collective rolls resolve conflicts between large groups of people. They work like **action rolls** do for player characters — with asset categories functioning as the attributes of a collective.
 
-An **offensive action** — like a raid into enemy territory — makes use of your **offensive assets.**
+- An **offensive action** — like a raid into enemy territory — makes use of your **offensive assets.**
 
-A **defensive action** — such as a resistance roll against a consequence — makes use of your **defensive assets.**
+- A **defensive action** — such as a resistance roll against a consequence — makes use of your **defensive assets.**
 
-A **utility action** — like getting information through your intelligence network — makes use of your **utility assets.**
+- A **utility action** — like getting information through your intelligence network — makes use of your **utility assets.**
 
 When rolling against another organization — such as in a skirmish against a faction — you get +1d6 for each level you have over your opponent, and -1d6 for each level under.
 
