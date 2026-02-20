@@ -25,8 +25,7 @@ Alguns exemplos de condições por atributo incluem:
 - **DES:** Exaustão física, reflexos lentos, perda de coordenação.
 - **VON:** Intoxicação química, em pânico, estado mental abalado.
 
-### Healing Conditions
-
+### Curando Condições
 Para se livrar das suas condições, você precisará lidar com elas individualmente, descansando, buscando tratamento ou fazendo o que fizer sentido dentro da narrativa.
 
 Role 1d6 para cada semana que passar em **descanso prolongado**; cada sucesso (4-6) elimina uma condição. Um sucesso crítico (66) elimina 3 condições.
