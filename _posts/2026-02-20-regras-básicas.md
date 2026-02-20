@@ -1,6 +1,6 @@
 ---
 title: Regras Básicas (Português Brasileiro)
-date: 2026-02-20 12:25:26 -0300
+date: 2026-02-20 12:34:43 -0300
 toc: true
 pin: false
 comments: false
