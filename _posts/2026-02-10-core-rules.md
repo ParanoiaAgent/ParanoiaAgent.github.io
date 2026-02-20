@@ -13,7 +13,7 @@ tags: [core rules, en-us]
 
 ### Character Details
 
-Record your character's **name** and their **concept** — a small description of what makes them unique — on your character sheet. Then distribute your **attribute** points and calculate your **hit protection.**
+Record your character's **name** and their **concept** — a small description of what makes them unique — on your character sheet. Then roll for your **attribute** points and **hit protection.**
 
 ### Attributes
 
@@ -139,6 +139,7 @@ Complete DEX and WIL loss renders the character unable to act until they go thro
 Recovery happens through two kinds of rest:
 
 - **Short Rest:** Resting for a few minutes. **Restores all HP and Grit.** May waste time or attract unwanted attention.
+
 - **Extended Rest:** At least week of healing in a safe place. **Restores all HP, Grit and Attributes.**
 
 ### Inventory
@@ -156,6 +157,7 @@ The amount of carried items affect your character's load. Load may grant advanta
 Equipment can be either **assistive** or **defensive.**
 
 - **Assistive Equipment:** Utility items. Raises **effect rating** by 1 on related **action rolls.**
+
 - **Defensive Equipment:** Shields and armor. Reduces **consequence rating** on physical attacks.
 
 Regular defensive equipment is single use and occupies a single inventory slot. Bulky defensive equipment can be used twice, but occupies 2 inventory slots. Equipment uses are restored by repair or replacement during **extended rest.**

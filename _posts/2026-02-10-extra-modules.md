@@ -4,14 +4,14 @@ date: 2026-02-10 09:54:08 -0300
 toc: true
 pin: true
 comments: false
-description: A set of optional rules, meant to add some extra depth to your campaing.
+description: A set of optional rules, meant to add some extra depth to your campaign.
 categories: [TTRPG, Rules] 
 tags: [extra modules, en-us]
 ---
 
 ## **Conditions**
 
-### Sustaining Conditions
+### Enduring Conditions
 
 When a player character suffers **attribute loss,** they get afflicted by a **condition.** Conditions represent kinds of debilitating injury or sickness that might weaken your character. They might raise your risk or lower your effect in action rolls depending on the context.
 
@@ -27,7 +27,9 @@ Some examples of conditions by attribute include:
 
 ### Healing Conditions
 
-To clear your conditions, you'll need to address them individually by resting, seeking treatment, or doing whatever makes sense within the fiction. Roll 1d6 for each week spent in **extended rest;** each success (4-6) clears one condition. A critical success (66) clears 3 conditions.
+To clear your conditions, you'll need to address them individually by resting, seeking treatment, or doing whatever makes sense within the fiction.
+
+Roll 1d6 for each week spent in **extended rest;** each success (4-6) clears one condition. A critical success (66) clears 3 conditions.
 
 ## **Spells**
 
@@ -76,7 +78,9 @@ You can save your earned points to expand your collective on your next advanceme
 Assets are the resources available to your collective. Assets are split between 3 categories:
 
 - **Offensive Asset:** Heavy equipment, trained operators, armory reserves, sabotage cells, leverage assets, etc.
+
 - **Defensive Asset:** Base of operations, fortified infrastructure, threat detection network, legal cover, secured supply lines, etc.
+
 - **Utility Asset:** Extraction vehicle, intelligence network, operation funds, cover identities, access vectors, etc.
 
 Each new asset raises the level of its category. To get a new asset, you expend an amount of points equal to the next level — level 1 takes 1 point, level 2 takes 2 points, and so on.
